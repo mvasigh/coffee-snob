@@ -1,0 +1,17 @@
+:root {
+  --max-page-width: 800px;
+}
+
+.Layout {
+  max-width: var(--max-page-width);
+  margin: 0 auto;
+}
+
+.Logo {
+  font-size: var(--font-size-6);
+}
+
+.Footer {
+  text-align: center;
+  padding: var(--size-6) 0;
+}

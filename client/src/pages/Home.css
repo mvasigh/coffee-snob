@@ -1,0 +1,24 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-2);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.Control {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-2);
+}
+
+.Headline {
+  text-align: center;
+  margin-bottom: var(--size-2);
+}
+
+.Description {
+  text-align: center;
+  font-size: var(--font-size-2);
+  max-width: 100%;
+}

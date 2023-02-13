@@ -1,0 +1,8 @@
+.BusinessCard {
+  padding: var(--size-4);
+  box-shadow: var(--shadow-4);
+}
+
+.BusinessCard .Title {
+  font-weight: var(--font-weight-7);
+}

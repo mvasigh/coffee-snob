@@ -1,0 +1,15 @@
+.LocationCard {
+  padding: var(--size-4);
+  box-shadow: var(--shadow-4);
+  width: 100%;
+}
+
+.LocationCard .Title {
+  font-weight: var(--font-weight-7);
+  font-size: var(--font-size-5);
+}
+
+.LocationCard .TitleLink {
+  margin: 0;
+  padding: 0;
+}
